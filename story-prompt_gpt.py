@@ -3,7 +3,7 @@ import openai
 import sys
 import json
 
-openai.api_key = "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"
+openai.api_key = "yyyyyyyyysxxxxxxxxxxxxxxxxxxxxxx"
 
 '''
 def prompt_gpt(prompt):
