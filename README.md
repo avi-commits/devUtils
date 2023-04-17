@@ -1,5 +1,5 @@
 # devUtils
-This repository is a collection of diverse utilities developed by the founders using the Python programming language, focusing on enhancing efficiency, functionality, and user experience in the backend system. By incorporating these utilities, developers can streamline their workflows, minimize redundancies, and maintain a modular codebase.
+This repository is a collection of diverse utilities developed by the Asobu founder using the Python programming language, focusing on enhancing efficiency, functionality, and user experience in the backend system. By incorporating these utilities, developers can streamline their workflows, minimize redundancies, and maintain a modular codebase.
 
 The utilities included in this repository cover a range of applications, such as:
 
