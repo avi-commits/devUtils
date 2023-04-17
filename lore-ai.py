@@ -14,7 +14,7 @@ random_color = generate_color()
 import openai
 
 def generate_sentence(asset_name):
-    openai.api_key = "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"
+    openai.api_key = "OPEN AI API KEY GOES HERE"
     response = openai.Completion.create(
         engine="text-davinci-002",
         prompt=(f"Create an interesting sentence that describes the {asset_name} game asset."),
