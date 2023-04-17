@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from dislash import SlashClient, ActionRow, Button
 
-TOKEN = "MTA4ODE2ODA1MjcyMzU2MDUwOA.GWOWLk.2P8jPw6xb0U_vJc89iP23M7CKzpYzdWa8XJx8o"
+TOKEN = "YOUR BOT TOKEN GOES HERE"
 
 intents = discord.Intents.all()
 intents.messages = True
