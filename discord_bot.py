@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = "MTA4ODE2ODA1MjcyMzU2MDUwOA.GWOWLk.2P8jPw6xb0U_vJc89iP23M7CKzpYzdWa8XJx8o"
+TOKEN = "YOUR BOT TOKEN GOES HERE"
 
 intents = discord.Intents.all()
 intents.messages = True
@@ -26,7 +26,7 @@ async def send_message(channel_id, message):
     await channel.send(message)
 
 message = "Test message generated using ChatGPT"
-channel_id = 1088538218623934585
+channel_id = 1XXXXXXXXXXXXX
 
 send_message(channel_id, message)
 '''
