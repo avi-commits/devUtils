@@ -26,9 +26,6 @@ async def buttons(ctx):
 
 @slash.component_callback()
 
-
-
-'''
 async def button1(ctx):
    #call google calendar api on button click
 
@@ -39,4 +36,3 @@ async def button2(ctx):
     await ctx.send("You clicked Button 2!", hidden=True)
 
 bot.run(TOKEN)
-'''
