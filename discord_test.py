@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import sys
 
-TOKEN = "MTA4ODE2ODA1MjcyMzU2MDUwOA.GWOWLk.2P8jPw6xb0U_vJc89iP23M7CKzpYzdWa8XJx8o"
+TOKEN = "YOUR BOT TOKEN GOES HERE"
 
 #intents = discord.Intents.default()
 intents = discord.Intents.all()
@@ -95,6 +95,4 @@ async def on_message(message):
     
 bot.run(TOKEN)
 
-#server_id = 980797272830902322
-#bot_token = MTA4ODE2ODA1MjcyMzU2MDUwOA.GWOWLk.2P8jPw6xb0U_vJc89iP23M7CKzpYzdWa8XJx8o
 #all privileged intents enabled
